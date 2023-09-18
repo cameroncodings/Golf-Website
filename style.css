@@ -65,16 +65,29 @@ li a:hover {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     box-shadow: 0 4px 8px   rgba(0, 0, 0, 0.75);
     background-color: #7FB3AA;
-    border-radius: 0.7rem;
+    border-radius: 0.7rem; 
+    text-align: center; 
     font-weight: bold;
 }
 
 #img {
     border-radius: 0.7rem;
-    box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.75);
+    box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.85);
 }
 
 p {
     font-size: large;
     color: #474237;
+}
+
+h2 {
+    color: #38342b;
+    text-align: center;
+    font-size: 60px;
+}
+
+#bottom {
+    border-radius: 0.7rem;
+    box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.85);
+    margin: 52.5px;
 }
